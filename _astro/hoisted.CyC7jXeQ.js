@@ -1,0 +1,1 @@
+import{b as n,p as i}from"./GenerateTestForm.astro_astro_type_script_index_0_lang.CytZt5s9.js";import"./hoisted.Cd30aNfc.js";const t=document.getElementById("createTestButton"),e=document.getElementById("printButton");t&&t.addEventListener("click",()=>{n()});e&&e.addEventListener("click",()=>{i()});
