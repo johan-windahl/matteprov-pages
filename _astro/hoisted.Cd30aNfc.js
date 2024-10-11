@@ -1,1 +1,0 @@
-window.dataLayer=window.dataLayer||[];function t(...e){window.dataLayer.push(e)}t("js",new Date);t("config","G-SD9XNPC09N");document.addEventListener("DOMContentLoaded",()=>{const e=document.querySelector("#menu-btn"),n=document.querySelector("#menu");e&&n&&e.addEventListener("click",()=>{n.classList.toggle("hidden")})});
