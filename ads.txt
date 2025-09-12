@@ -1,2 +1,1 @@
 google.com, pub-2592832788799017, DIRECT, f08c47fec0942fa0
-redirect: https://srv.adstxtmanager.com/78427/matteprov.se
