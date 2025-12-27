@@ -84,4 +84,4 @@ const w="sv";function y(a){const[,i]=a.pathname.split("/");return i==="en"?"en":
         <div class="w-full sm:w-1/2 md:w-1/3 p-2">
             <div class="bg-gray-100 p-4 rounded-lg shadow">${p} ${h}</div>
         </div>
-    `)}}function c(a){for(var i=a.length-1;i>0;i--){var d=Math.floor(Math.random()*(i+1)),l=a[i];a[i]=a[d],a[d]=l}}const g=document.getElementById("createTestButton"),v=document.getElementById("printButton");g&&v&&g.addEventListener("click",()=>{v.removeAttribute("disabled")});export{E as a,T as b,B as c,M as g,I as p};
+    `)}}function c(a){for(var i=a.length-1;i>0;i--){var d=Math.floor(Math.random()*(i+1)),l=a[i];a[i]=a[d],a[d]=l}}const g=document.getElementById("createTestButton"),v=document.getElementById("printButton");g&&v&&g.addEventListener("click",()=>{v.removeAttribute("disabled")});export{M as a,T as b,B as c,E as g,I as p};
