@@ -1,1 +1,0 @@
-import{a as n,p as i}from"./GenerateTestForm.astro_astro_type_script_index_0_lang.BQc4kyPm.js";import"./hoisted.S-6bLskK.js";const t=document.getElementById("createTestButton"),e=document.getElementById("printButton");t&&t.addEventListener("click",()=>{n()});e&&e.addEventListener("click",()=>{i()});
